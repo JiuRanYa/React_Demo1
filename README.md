@@ -3,10 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ### 1.安装依赖(Download dependencies)：
-#### npm install antd react-redux react-router-dom redux redux-thunk --save-dev
+#### `npm install antd react-redux react-router-dom redux redux-thunk --save-dev`
 
 ### 2.运行项目(Run project):
-#### npm run start
+#### `npm run start`
 
 ### 3.项目说明：
 #### 本项目使用了React的脚手架来快速搭建一个React项目，项目的UI界面采用了Ant Design，让React小白能够快速掌握React的开发流程
