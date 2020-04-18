@@ -1,0 +1,11 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+}
+#top_username{
+	color: #00D6B2;
+}
+#top_username:hover{
+	cursor: pointer;
+	color: white;
+}
